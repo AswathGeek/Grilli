@@ -13,7 +13,7 @@
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![image alt](https://github.com/AswathGeek/Grilli/blob/806117e32f636ea6c8e4dba5193feedbf835234c/desktop.png)
 
 ### Prerequisites
 
